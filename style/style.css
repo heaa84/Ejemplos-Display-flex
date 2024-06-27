@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*border: 1px solid red;*/
+}
+
+.contenedor__body{
+    margin: 1rem;
+}
+.contenedor__ejemplo__uno{
+    margin: 1rem;
+    display: flex;
+}
+p{
+    border: 1px solid blue;
+}
+
+.footer{margin-top: 20%;}
